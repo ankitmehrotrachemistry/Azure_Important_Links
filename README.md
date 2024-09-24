@@ -17,3 +17,11 @@
 
 ## 6). Build Cloud PC Online Microsoft Azure | Build Gaming PC On Cloud
 ▶️ [Build Cloud PC Online Microsoft Azure | Build Gaming PC On Cloud | Run High End PC On Low End PC](https://www.youtube.com/watch?v=SzipewW5m5A)
+
+
+**Azure :**   
+1). Proficiency with the Microsoft cloud ecosystem including AppServices, Azure Functions, Service Bus, etal.  
+2). Azure expertise AZURE data factory, Function apps, Service bus.  
+3). Basic understanding of Devops.  
+4). Azure Cloud  
+5). Azure Blob Storage, Azure Queues  
