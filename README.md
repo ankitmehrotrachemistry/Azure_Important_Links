@@ -25,3 +25,6 @@
 3). Basic understanding of Devops.  
 4). Azure Cloud  
 5). Azure Blob Storage, Azure Queues  
+6). Azure, FunctionApp, and App Service.  
+7). azure app insights  
+8). Azure Cognitive Search (Azure AI Search)  
