@@ -18,6 +18,19 @@
 ## 6). Build Cloud PC Online Microsoft Azure | Build Gaming PC On Cloud
 ▶️ [Build Cloud PC Online Microsoft Azure | Build Gaming PC On Cloud | Run High End PC On Low End PC](https://www.youtube.com/watch?v=SzipewW5m5A)
 
+## Proficiency in Azure services, including Azure DataBricks and Azure Data Factory (ADF).
+
+## Experience with Azure App services and cloud-based application development.
+
+## Application Development: Design, develop, and maintain cloud-based applications using Azure services, including Azure App Service and Azure Functions.
+
+## Deployment &amp; Management: Manage and automate deployment processes using Azure DevOps, ensuring efficient and reliable application releases.
+
+## PaaS Solutions: Utilize Azure PaaS offerings to build scalable and resilient applications.
+
+## Integration: Integrate various Azure services to create cohesive and efficient solutions.
+
+
 
 **Azure :**   
 1). Proficiency with the Microsoft cloud ecosystem including AppServices, Azure Functions, Service Bus, etal.  
